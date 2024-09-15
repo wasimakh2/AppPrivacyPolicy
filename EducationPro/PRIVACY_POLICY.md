@@ -22,6 +22,11 @@ The list of permissions required by the app can be found in the `AndroidManifest
 | `android.permission.ACCESS_NETWORK_STATE` | This is required to use Database Functionality. |
 | `android.permission.INTERNET` | Required to CRUD operation |
 | `com.google.android.gms.permission.AD_ID` | Enables the app show the adsend. |
+| `android.permission.POST_NOTIFICATIONS` | Enables the app show the Notification. |
+| `android.permission.ACCESS_COARSE_LOCATION` | Enables the app mark attendance automatically based on location. |
+| `android.permission.ACCESS_FINE_LOCATION` | Enables the app mark attendance automatically based on location. |
+| `android.permission.ACCESS_BACKGROUND_LOCATION` | Enables the app mark attendance automatically based on location. |
+
 
  <hr style="border:1px solid gray">
 
