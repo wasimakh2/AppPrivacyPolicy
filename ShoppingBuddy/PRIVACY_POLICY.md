@@ -19,7 +19,7 @@ This privacy policy covers the **Shopping Buddy** (Universal Shopping List) mobi
 
 ### Contact
 
-- **Email:** support@aahanatech.com
+- **Email:** wasim.akh2@gmail.com
 - **Company:** Aahana Tech
 - **Package:** com.aahanatech.shoppingbuddy
 
